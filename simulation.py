@@ -65,7 +65,7 @@ class Simulation:
         print("Simulation started.")
         print(self.map)
 
-        # 🔧 DEMO setup: 1 car, 1 rider
+        #  DEMO setup: 1 car, 1 rider
         self.add_car("CAR001", "Airport")
         self.add_rider("RIDER_A", "Airport", "Suburbs")
 
